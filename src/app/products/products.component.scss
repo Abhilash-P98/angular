@@ -1,0 +1,29 @@
+.box {
+    width: 400px;
+    height: 600px;
+    background: rgb(205, 212, 208);
+    color: #fff;
+    top: 40%;
+    left: 45%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+  }
+  .box p {
+    color: rgb(17, 15, 15);  
+    font-family: verdana;
+    font-size: 20px;
+  }
+.box h1 {
+    color: rgb(247, 154, 14);  
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    
+  } 
+.box img {
+    max-width: 100%;
+    height: auto;
+
+
+}
